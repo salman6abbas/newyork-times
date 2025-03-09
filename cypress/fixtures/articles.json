@@ -1,0 +1,10 @@
+{
+  "results": [
+    {
+      "title": "Test Article",
+      "byline": "By Test Author",
+      "abstract": "Test Abstract",
+      "media": [{ "media-metadata": [{}, {}, { "url": "test-image.jpg" }] }]
+    }
+  ]
+}
