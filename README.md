@@ -18,7 +18,7 @@ npm install
 Start the project:
 npm run dev
 
-## To run the test**
+## To run the test
 Run the following code to locally run tests:
 npx cypress run 
 
